@@ -73,18 +73,18 @@
 			</dependencies>
 
 		</profile>
-		<profile>
-			<id>dev</id>
+<!--		<profile>-->
+<!--			<id>dev</id>-->
 
-			<dependencies>
-				<dependency>
-					<groupId>org.twak.utils</groupId>
-					<artifactId>utils</artifactId>
-					<version>0.0.1-SNAPSHOT</version>
-				</dependency>
-			</dependencies>
+<!--			<dependencies>-->
+<!--				<dependency>-->
+<!--					<groupId>org.twak.utils</groupId>-->
+<!--					<artifactId>utils</artifactId>-->
+<!--					<version>0.0.1-SNAPSHOT</version>-->
+<!--				</dependency>-->
+<!--			</dependencies>-->
 
-		</profile>
+<!--		</profile>-->
 	</profiles>
 
 	<dependencies>
